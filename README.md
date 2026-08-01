@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**flex82/flex82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+██████████████████████████████████████████
+          FLEX82 GitHub Profile
+██████████████████████████████████████████
 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=FLEX82&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Discord+Bot+Developer;Hosting+Engineer;Cloud+Infrastructure+Builder;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=flex82&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/flex82?style=for-the-badge&color=8A2BE2"/>
+
+<img src="https://img.shields.io/github/stars/flex82?style=for-the-badge&color=8A2BE2"/>
+
+</div>
+
+
+# 👋 About Me
+
+```yaml
+name: FLEX82
+
+role:
+  - Full Stack Developer
+  - Discord Bot Developer
+  - Hosting Engineer
+
+focus:
+  - Web Applications
+  - Cloud Infrastructure
+  - Automation Systems
+  - Discord Ecosystem
+
+currently_learning:
+  - Advanced Backend Architecture
+  - DevOps
+  - System Administration
+
+fun_fact:
+  - I love building things from zero 🚀
