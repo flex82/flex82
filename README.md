@@ -49,6 +49,34 @@ currently_learning:
   - Advanced Backend Architecture
   - DevOps
   - System Administration
+🚀 What I Do
+<div align="center">
+💻 Development	☁ Infrastructure
+Discord Bots	VPS Management
+Web Applications	Linux Servers
+APIs	Docker
+Automation	Hosting Platforms
+</div>
+🛠️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,tailwind,python,php,mysql,mongodb,git,github,docker,linux,nginx,vscode&perline=9"/> </div>
+💻 Programming Languages
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+⚡ Tools & Environment
+<div align="center"> <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows,vscode,git,docker,cloudflare,postman&perline=8"/> </div> ```
+
 
 fun_fact:
   - I love building things from zero 🚀
