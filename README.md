@@ -89,7 +89,7 @@ Clean systems, secure operations, and infrastructure that is built to scale.
 
 ## 🔗 Connect
 
-[![Email](https://img.shields.io/badge/Email-onlydark%40darknethub.io-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlydark@darknethub.io)[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cs-n)[![Website](https://img.shields.io/badge/Website-darknethub.io-F38020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darknethub.io/)[![Reddit](https://img.shields.io/badge/Reddit-darkdev90-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/darkdev90/)
+[![Email](https://img.shields.io/badge/Email-onlydark%casahosting.org-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlydark@casahosting.org)[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cs-n)[![Website](https://img.shields.io/badge/Website-casahosting.org-F38020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://casahosting.org/)[![Reddit](https://img.shields.io/badge/Reddit-darkdev90-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/darkdev90/)
 
 ---
 
